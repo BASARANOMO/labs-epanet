@@ -1,0 +1,7 @@
+	11	12	21	22
+11	100.0	100.0	100.0	100.0
+12	1.0	100.0	1.0	78.53
+21	1.0	1.0	100.0	22.47
+22	1.0	1.0	1.0	100.0
+
+I will choose the node 11 to install the water quality sensor because all water in other nodes comes from the node 11.
